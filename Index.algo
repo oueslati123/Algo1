@@ -1,0 +1,22 @@
+---First task---
+Algorithm First task
+Var
+word=boolean
+wordcount=0
+vowelcount=0
+i=integer
+sentance=string
+begin
+read sentance input
+pour i de 0 a n=lenght sentance faire
+if ch=white_space then 
+word=false
+Else wordcount = wordcount + 1
+end if
+if ch=vowel then
+vowelcount=vowelcount + 1 
+end if
+write wordcount et vowelcount
+END
+
+
